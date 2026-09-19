@@ -1,0 +1,62 @@
+{
+    "pack": {
+        "pack_format": 15,
+		"supported_formats": [15, 75],
+        "min_format": 15,
+        "max_format": 75,
+        "description": [
+			{
+				"text": "SkyBlockM",
+				"color": "#BEFF01"
+			},
+			{
+				"text": " | ",
+				"color": "#FFFFFF"
+			},
+			{
+				"text": "By LeonidM, Dareda, levnemcev, Miwo4ka",
+				"color": "#6C9000"
+			}
+		]
+    },
+	"overlays": {
+		"entries": [
+			{
+				"directory": "1_20_5",
+				"formats": [32, 999999],
+				"min_format": 32,
+				"max_format": 999999
+			},
+			{
+				"directory": "1_21_2",
+				"formats": [42, 999999],
+				"min_format": 42,
+				"max_format": 999999
+			},
+			{
+				"directory": "1_21_4",
+				"formats": [46, 999999],
+				"min_format": 46,
+				"max_format": 999999
+			},
+			{
+				"directory": "1_21_6",
+				"formats": [63, 999999],
+				"min_format": 63,
+				"max_format": 999999
+			},
+			{
+				"directory": "1_21_7",
+				"formats": [64, 999999],
+				"min_format": 64,
+				"max_format": 999999
+			},
+			{
+				"directory": "1_21_11",
+				"formats": [75, 999999],
+				"min_format": 75,
+				"max_format": 999999
+			}
+		]
+	}
+}
