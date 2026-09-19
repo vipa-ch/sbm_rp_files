@@ -1,0 +1,9 @@
+{
+	"credit": "Miwo4ka, levnemcev",
+	"parent": "technologies:block/technology_table/quantum",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "technologies:block/technology_table/electricity",
+		"particle": "technologies:block/technology_table/electricity"
+	}
+}

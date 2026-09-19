@@ -1,0 +1,20 @@
+{
+    "elevator_music": {
+        "subtitle": "Приятной поездки!",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "general:elevator_music"
+            }
+        ]
+    },
+    "block.vending_machine.use": {
+        "subtitle": "Использован торговый автомат",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "general:vending_machine_use"
+            }
+        ]
+    }
+}

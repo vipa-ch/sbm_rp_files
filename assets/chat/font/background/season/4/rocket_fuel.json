@@ -1,0 +1,349 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/4/rocket_fuel/1.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u1000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/4/rocket_fuel/2.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u1001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/4/rocket_fuel/3.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u1002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/4/rocket_fuel/4.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u1003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/4/rocket_fuel/5.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u1004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/4/rocket_fuel/6.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u1005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/4/rocket_fuel/7.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u1006"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/4/rocket_fuel/8.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u1007"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/4/rocket_fuel/9.png",
+            "ascent": 7,
+            "height": 9,
+            "chars": [
+                "\u1008"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/4/rocket_fuel/10.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "\u1009"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/4/rocket_fuel/11.png",
+            "ascent": 7,
+            "height": 11,
+            "chars": [
+                "\u100a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/4/rocket_fuel/12.png",
+            "ascent": 7,
+            "height": 12,
+            "chars": [
+                "\u100b"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/4/rocket_fuel/13.png",
+            "ascent": 7,
+            "height": 13,
+            "chars": [
+                "\u100c"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/4/rocket_fuel/14.png",
+            "ascent": 7,
+            "height": 14,
+            "chars": [
+                "\u100d"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/4/rocket_fuel/15.png",
+            "ascent": 7,
+            "height": 15,
+            "chars": [
+                "\u100e"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/4/rocket_fuel/16.png",
+            "ascent": 7,
+            "height": 16,
+            "chars": [
+                "\u100f"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/4/rocket_fuel/17.png",
+            "ascent": 7,
+            "height": 17,
+            "chars": [
+                "\u1010"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/4/rocket_fuel/18.png",
+            "ascent": 7,
+            "height": 18,
+            "chars": [
+                "\u1011"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/4/rocket_fuel/19.png",
+            "ascent": 7,
+            "height": 19,
+            "chars": [
+                "\u1012"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/4/rocket_fuel/20.png",
+            "ascent": 7,
+            "height": 20,
+            "chars": [
+                "\u1013"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/4/rocket_fuel/21.png",
+            "ascent": 7,
+            "height": 21,
+            "chars": [
+                "\u1014"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/4/rocket_fuel/22.png",
+            "ascent": 7,
+            "height": 22,
+            "chars": [
+                "\u1015"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/4/rocket_fuel/23.png",
+            "ascent": 7,
+            "height": 23,
+            "chars": [
+                "\u1016"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/4/rocket_fuel/24.png",
+            "ascent": 7,
+            "height": 24,
+            "chars": [
+                "\u1017"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/4/rocket_fuel/25.png",
+            "ascent": 7,
+            "height": 25,
+            "chars": [
+                "\u1018"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/4/rocket_fuel/26.png",
+            "ascent": 7,
+            "height": 26,
+            "chars": [
+                "\u1019"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/4/rocket_fuel/27.png",
+            "ascent": 7,
+            "height": 27,
+            "chars": [
+                "\u101a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/4/rocket_fuel/28.png",
+            "ascent": 7,
+            "height": 28,
+            "chars": [
+                "\u101b"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/4/rocket_fuel/29.png",
+            "ascent": 7,
+            "height": 29,
+            "chars": [
+                "\u101c"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/4/rocket_fuel/30.png",
+            "ascent": 7,
+            "height": 30,
+            "chars": [
+                "\u101d"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/4/rocket_fuel/31.png",
+            "ascent": 7,
+            "height": 31,
+            "chars": [
+                "\u101e"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/4/rocket_fuel/32.png",
+            "ascent": 7,
+            "height": 32,
+            "chars": [
+                "\u101f"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/4/rocket_fuel/33.png",
+            "ascent": 7,
+            "height": 33,
+            "chars": [
+                "\u1020"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/4/rocket_fuel/34.png",
+            "ascent": 7,
+            "height": 34,
+            "chars": [
+                "\u1021"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/4/rocket_fuel/35.png",
+            "ascent": 7,
+            "height": 35,
+            "chars": [
+                "\u1022"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/4/rocket_fuel/36.png",
+            "ascent": 7,
+            "height": 36,
+            "chars": [
+                "\u1023"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/4/rocket_fuel/37.png",
+            "ascent": 7,
+            "height": 37,
+            "chars": [
+                "\u1024"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/4/rocket_fuel/38.png",
+            "ascent": 7,
+            "height": 38,
+            "chars": [
+                "\u1025"
+            ]
+        },
+
+        { "type": "bitmap", "file": "chat:background/season/4/rocket_fuel/prefix.png", "ascent": 7, "height": 8, "chars": [ "\u2000" ] },
+        { "type": "bitmap", "file": "chat:background/season/4/rocket_fuel/suffix.png", "ascent": 7, "height": 8, "chars": [ "\u2001" ] }
+    ]
+}

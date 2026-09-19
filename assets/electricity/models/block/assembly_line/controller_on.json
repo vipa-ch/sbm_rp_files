@@ -1,0 +1,8 @@
+{
+	"credit": "Miwo4ka",
+	"parent": "electricity:block/assembly_line/controller",
+	"textures": {
+		"0": "electricity:block/assembly_line/controller_on",
+		"particle": "electricity:block/assembly_line/controller_on"
+	}
+}

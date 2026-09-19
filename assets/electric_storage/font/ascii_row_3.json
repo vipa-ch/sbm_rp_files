@@ -1,0 +1,22 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "electric_storage:font/terminal_symbols.png",
+			"height": 5,
+            "ascent": -52,
+            "chars": [
+                "\u0030\u0031\u0032\u0033\u0034\u0035\u0036\u0037\u0038\u0039\u002e\u004b\u004d\u002B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "electric_storage:font/terminal_symbols.png",
+			"height": 5,
+            "ascent": -41,
+            "chars": [
+                "\u1030\u1031\u1032\u1033\u1034\u1035\u1036\u1037\u1038\u1039\u102e\u104b\u104d\u102B"
+            ]
+        }
+	]
+}

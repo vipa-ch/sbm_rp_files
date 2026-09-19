@@ -1,0 +1,72 @@
+{
+  "providers": [
+    { "type": "bitmap", "file": "customization:preview/armor/nano/red.png", "ascent": 7, "height": 128, "chars": [ "\u1000" ] },
+    { "type": "bitmap", "file": "customization:preview/armor/nano/light_blue.png", "ascent": 7, "height": 128, "chars": [ "\u1001" ] },
+    { "type": "bitmap", "file": "customization:preview/armor/nano/purple.png", "ascent": 7, "height": 128, "chars": [ "\u1002" ] },
+    { "type": "bitmap", "file": "customization:preview/armor/nano/gray.png", "ascent": 7, "height": 128, "chars": [ "\u1003" ] },
+    { "type": "bitmap", "file": "customization:preview/armor/nano/blue.png", "ascent": 7, "height": 128, "chars": [ "\u1004" ] },
+    { "type": "bitmap", "file": "customization:preview/armor/nano/yellow.png", "ascent": 7, "height": 128, "chars": [ "\u1005" ] },
+    { "type": "bitmap", "file": "customization:preview/armor/nano/copper.png", "ascent": 7, "height": 128, "chars": [ "\u1006" ] },
+    { "type": "bitmap", "file": "customization:preview/armor/nano/quartz.png", "ascent": 7, "height": 128, "chars": [ "\u1007" ] },
+    { "type": "bitmap", "file": "customization:preview/armor/nano/netherite.png", "ascent": 7, "height": 128, "chars": [ "\u1008" ] },
+
+    { "type": "bitmap", "file": "customization:preview/armor/nano/steampunk.png", "ascent": 7, "height": 128, "chars": [ "\u1020" ] },
+    { "type": "bitmap", "file": "customization:preview/armor/nano/uranium.png", "ascent": 7, "height": 128, "chars": [ "\u1021" ] },
+    { "type": "bitmap", "file": "customization:preview/armor/nano/suit.png", "ascent": 7, "height": 128, "chars": [ "\u1022" ] },
+    { "type": "bitmap", "file": "customization:preview/armor/nano/work_suit.png", "ascent": 7, "height": 128, "chars": [ "\u1023" ] },
+    { "type": "bitmap", "file": "customization:preview/armor/nano/robot.png", "ascent": 7, "height": 128, "chars": [ "\u1024" ] },
+
+
+    { "type": "bitmap", "file": "customization:preview/armor/quantum/red.png", "ascent": 7, "height": 128, "chars": [ "\u1100" ] },
+    { "type": "bitmap", "file": "customization:preview/armor/quantum/light_blue.png", "ascent": 7, "height": 128, "chars": [ "\u1101" ] },
+    { "type": "bitmap", "file": "customization:preview/armor/quantum/purple.png", "ascent": 7, "height": 128, "chars": [ "\u1102" ] },
+    { "type": "bitmap", "file": "customization:preview/armor/quantum/gray.png", "ascent": 7, "height": 128, "chars": [ "\u1103" ] },
+    { "type": "bitmap", "file": "customization:preview/armor/quantum/blue.png", "ascent": 7, "height": 128, "chars": [ "\u1104" ] },
+    { "type": "bitmap", "file": "customization:preview/armor/quantum/yellow.png", "ascent": 7, "height": 128, "chars": [ "\u1105" ] },
+    { "type": "bitmap", "file": "customization:preview/armor/quantum/copper.png", "ascent": 7, "height": 128, "chars": [ "\u1106" ] },
+    { "type": "bitmap", "file": "customization:preview/armor/quantum/quartz.png", "ascent": 7, "height": 128, "chars": [ "\u1107" ] },
+    { "type": "bitmap", "file": "customization:preview/armor/quantum/netherite.png", "ascent": 7, "height": 128, "chars": [ "\u1108" ] },
+
+    { "type": "bitmap", "file": "customization:preview/armor/quantum/steampunk.png", "ascent": 7, "height": 128, "chars": [ "\u1120" ] },
+    { "type": "bitmap", "file": "customization:preview/armor/quantum/uranium.png", "ascent": 7, "height": 128, "chars": [ "\u1121" ] },
+    { "type": "bitmap", "file": "customization:preview/armor/quantum/suit.png", "ascent": 7, "height": 128, "chars": [ "\u1122" ] },
+    { "type": "bitmap", "file": "customization:preview/armor/quantum/work_suit.png", "ascent": 7, "height": 128, "chars": [ "\u1123" ] },
+    { "type": "bitmap", "file": "customization:preview/armor/quantum/robot.png", "ascent": 7, "height": 128, "chars": [ "\u1124" ] },
+
+    { "type": "bitmap", "file": "customization:preview/armor/quantum/old.png", "ascent": 7, "height": 128, "chars": [ "\u1130" ] },
+    { "type": "bitmap", "file": "customization:preview/armor/quantum/july1_2026.png", "ascent": 7, "height": 128, "chars": [ "\u1131" ] },
+
+
+
+    { "type": "bitmap", "file": "customization:preview/drill/steampunk.png", "ascent": 7, "height": 128, "chars": [ "\u2000" ] },
+    { "type": "bitmap", "file": "customization:preview/drill/uranium.png", "ascent": 7, "height": 128, "chars": [ "\u2001" ] },
+    { "type": "bitmap", "file": "customization:preview/drill/solar.png", "ascent": 7, "height": 128, "chars": [ "\u2002" ] },
+    { "type": "bitmap", "file": "customization:preview/drill/reinforced.png", "ascent": 7, "height": 128, "chars": [ "\u2003" ] },
+    { "type": "bitmap", "file": "customization:preview/drill/ie4716.png", "ascent": 7, "height": 128, "chars": [ "\u2004" ] },
+    
+    
+    { "type": "bitmap", "file": "customization:preview/saw/steampunk.png", "ascent": 7, "height": 128, "chars": [ "\u3000" ] },
+    { "type": "bitmap", "file": "customization:preview/saw/uranium.png", "ascent": 7, "height": 128, "chars": [ "\u3001" ] },
+    { "type": "bitmap", "file": "customization:preview/saw/solar.png", "ascent": 7, "height": 128, "chars": [ "\u3002" ] },
+    { "type": "bitmap", "file": "customization:preview/saw/reinforced.png", "ascent": 7, "height": 128, "chars": [ "\u3003" ] },
+    { "type": "bitmap", "file": "customization:preview/saw/tayga214.png", "ascent": 7, "height": 128, "chars": [ "\u3004" ] },
+
+
+    { "type": "bitmap", "file": "customization:preview/nano_saber/steampunk.png", "ascent": 7, "height": 128, "chars": [ "\u4000" ] },
+    { "type": "bitmap", "file": "customization:preview/nano_saber/uranium.png", "ascent": 7, "height": 128, "chars": [ "\u4001" ] },
+    { "type": "bitmap", "file": "customization:preview/nano_saber/solar.png", "ascent": 7, "height": 128, "chars": [ "\u4002" ] },
+    { "type": "bitmap", "file": "customization:preview/nano_saber/reinforced.png", "ascent": 7, "height": 128, "chars": [ "\u4003" ] },
+    { "type": "bitmap", "file": "customization:preview/nano_saber/umbrella.png", "ascent": 7, "height": 128, "chars": [ "\u4004" ] },
+
+
+    { "type": "bitmap", "file": "customization:preview/vajra/steampunk.png", "ascent": 7, "height": 128, "chars": [ "\u5000" ] },
+    { "type": "bitmap", "file": "customization:preview/vajra/uranium.png", "ascent": 7, "height": 128, "chars": [ "\u5001" ] },
+    { "type": "bitmap", "file": "customization:preview/vajra/solar.png", "ascent": 7, "height": 128, "chars": [ "\u5002" ] },
+    { "type": "bitmap", "file": "customization:preview/vajra/reinforced.png", "ascent": 7, "height": 128, "chars": [ "\u5003" ] },
+    { "type": "bitmap", "file": "customization:preview/vajra/lr344.png", "ascent": 7, "height": 128, "chars": [ "\u5004" ] },
+
+    { "type": "bitmap", "file": "customization:preview/vajra/prototype.png", "ascent": 7, "height": 128, "chars": [ "\u5010" ] },
+
+    { "type": "bitmap", "file": "customization:preview/july1_2025.png", "ascent": 7, "height": 128, "chars": [ "\uF000" ] }
+  ]
+}

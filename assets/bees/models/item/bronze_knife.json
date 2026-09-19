@@ -1,0 +1,7 @@
+{
+    "credit": "Dareda",
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "bees:item/bronze_knife"
+    }
+}

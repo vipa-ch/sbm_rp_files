@@ -1,0 +1,7 @@
+{
+  "credit": "Claude",
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "july1:item/2026/magic/artifact/eternity_clock/56"
+  }
+}

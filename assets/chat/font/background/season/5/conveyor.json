@@ -1,0 +1,43 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/5/conveyor/1.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "\u1000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/5/conveyor/2.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "\u1001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/5/conveyor/3.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "\u1002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/5/conveyor/4.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "\u1003"
+            ]
+        },
+
+        { "type": "bitmap", "file": "chat:background/season/5/conveyor/prefix.png", "ascent": 8, "height": 10, "chars": [ "\u2000" ] },
+        { "type": "bitmap", "file": "chat:background/season/5/conveyor/suffix.png", "ascent": 8, "height": 10, "chars": [ "\u2001" ] }
+    ]
+}

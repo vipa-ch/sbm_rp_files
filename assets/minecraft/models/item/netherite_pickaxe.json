@@ -1,0 +1,53 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/netherite_pickaxe"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 100 }, "model": "skyblock:item/hammer/netherite" },
+
+        { "predicate": { "custom_model_data": 200 }, "model": "electricity:item/tool/drill" },
+        { "predicate": { "custom_model_data": 210 }, "model": "electricity:item/tool/vajra" },
+
+
+        { "predicate": { "custom_model_data": 1000000 }, "model": "customization:item/pickaxe/evacuation_plan" },
+        { "predicate": { "custom_model_data": 1000001 }, "model": "customization:item/pickaxe/ice_breaker" },
+        { "predicate": { "custom_model_data": 1000002 }, "model": "customization:item/pickaxe/titanium" },
+
+        { "predicate": { "custom_model_data": 1000100 }, "model": "customization:item/pickaxe/sculk" },
+        { "predicate": { "custom_model_data": 1000101 }, "model": "customization:item/pickaxe/amethyst" },
+        { "predicate": { "custom_model_data": 1000102 }, "model": "customization:item/pickaxe/mossy" },
+
+        { "predicate": { "custom_model_data": 1001000 }, "model": "customization:item/hammer/disconnector" },
+
+        { "predicate": { "custom_model_data": 1001100 }, "model": "customization:item/hammer/sculk" },
+        { "predicate": { "custom_model_data": 1001101 }, "model": "customization:item/hammer/amethyst" },
+        { "predicate": { "custom_model_data": 1001102 }, "model": "customization:item/hammer/mossy" },
+
+        { "predicate": { "custom_model_data": 1002000 }, "model": "customization:item/drill/jackhammer" },
+        { "predicate": { "custom_model_data": 1002001 }, "model": "customization:item/drill/diamond" },
+        { "predicate": { "custom_model_data": 1002002 }, "model": "customization:item/drill/titanium" },
+
+        { "predicate": { "custom_model_data": 1002100 }, "model": "customization:item/drill/sculk" },
+        { "predicate": { "custom_model_data": 1002101 }, "model": "customization:item/drill/amethyst" },
+        { "predicate": { "custom_model_data": 1002102 }, "model": "customization:item/drill/mossy" },
+
+        { "predicate": { "custom_model_data": 1002200 }, "model": "customization:item/drill/steampunk" },
+        { "predicate": { "custom_model_data": 1002201 }, "model": "customization:item/drill/uranium" },
+        { "predicate": { "custom_model_data": 1002202 }, "model": "customization:item/drill/solar" },
+        { "predicate": { "custom_model_data": 1002203 }, "model": "customization:item/drill/reinforced" },
+        { "predicate": { "custom_model_data": 1002204 }, "model": "customization:item/drill/ie4716" },
+
+        { "predicate": { "custom_model_data": 1002210 }, "model": "customization:item/drill/july1_2025" },
+
+        { "predicate": { "custom_model_data": 1003200 }, "model": "customization:item/vajra/steampunk" },
+        { "predicate": { "custom_model_data": 1003201 }, "model": "customization:item/vajra/uranium" },
+        { "predicate": { "custom_model_data": 1003202 }, "model": "customization:item/vajra/solar" },
+        { "predicate": { "custom_model_data": 1003203 }, "model": "customization:item/vajra/reinforced" },
+        { "predicate": { "custom_model_data": 1003204 }, "model": "customization:item/vajra/lr344" },
+
+        { "predicate": { "custom_model_data": 1003210 }, "model": "customization:item/vajra/prototype" },
+        { "predicate": { "custom_model_data": 1003211 }, "model": "customization:item/vajra/july1_2025_1" },
+        { "predicate": { "custom_model_data": 1003212 }, "model": "customization:item/vajra/july1_2025_2" }
+    ]
+}

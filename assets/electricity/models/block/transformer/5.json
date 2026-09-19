@@ -1,0 +1,9 @@
+{
+	"credit": "levnemcev",
+	"parent": "electricity:block/transformer/1",
+	"texture_size": [32, 32],
+	"textures": {
+		"base": "electricity:block/transformer/5",
+		"level": "electricity:block/transformer/level/5"
+	}
+}

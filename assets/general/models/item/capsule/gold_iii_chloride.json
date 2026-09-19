@@ -1,0 +1,7 @@
+{
+    "credit": "LeonidM",
+    "parent": "general:item/capsule/empty",
+    "textures": {
+        "fluid": "gui:item/bar/gold_iii_chloride/14"
+    }
+}

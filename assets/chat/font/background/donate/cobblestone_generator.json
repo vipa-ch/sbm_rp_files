@@ -1,0 +1,27 @@
+{
+  "providers": [
+        { "type": "bitmap", "file": "chat:background/donate/cobblestone_generator/1.png", "ascent": 7, "height": 8, "chars": [ "\u1001" ] },
+        { "type": "bitmap", "file": "chat:background/donate/cobblestone_generator/2.png", "ascent": 7, "height": 8, "chars": [ "\u1002" ] },
+        { "type": "bitmap", "file": "chat:background/donate/cobblestone_generator/3.png", "ascent": 7, "height": 8, "chars": [ "\u1003" ] },
+        { "type": "bitmap", "file": "chat:background/donate/cobblestone_generator/4.png", "ascent": 7, "height": 8, "chars": [ "\u1004" ] },
+        { "type": "bitmap", "file": "chat:background/donate/cobblestone_generator/5.png", "ascent": 7, "height": 8, "chars": [ "\u1005" ] },
+        { "type": "bitmap", "file": "chat:background/donate/cobblestone_generator/6.png", "ascent": 7, "height": 8, "chars": [ "\u1006" ] },
+        { "type": "bitmap", "file": "chat:background/donate/cobblestone_generator/7.png", "ascent": 7, "height": 8, "chars": [ "\u1007" ] },
+        { "type": "bitmap", "file": "chat:background/donate/cobblestone_generator/8.png", "ascent": 7, "height": 8, "chars": [ "\u1008" ] },
+        { "type": "bitmap", "file": "chat:background/donate/cobblestone_generator/9.png", "ascent": 7, "height": 9, "chars": [ "\u1009" ] },
+        { "type": "bitmap", "file": "chat:background/donate/cobblestone_generator/10.png", "ascent": 7, "height": 10, "chars": [ "\u100A" ] },
+        { "type": "bitmap", "file": "chat:background/donate/cobblestone_generator/11.png", "ascent": 7, "height": 11, "chars": [ "\u100B" ] },
+        { "type": "bitmap", "file": "chat:background/donate/cobblestone_generator/12.png", "ascent": 7, "height": 12, "chars": [ "\u100C" ] },
+        { "type": "bitmap", "file": "chat:background/donate/cobblestone_generator/13.png", "ascent": 7, "height": 13, "chars": [ "\u100D" ] },
+        { "type": "bitmap", "file": "chat:background/donate/cobblestone_generator/14.png", "ascent": 7, "height": 14, "chars": [ "\u100E" ] },
+        { "type": "bitmap", "file": "chat:background/donate/cobblestone_generator/15.png", "ascent": 7, "height": 15, "chars": [ "\u100F" ] },
+        { "type": "bitmap", "file": "chat:background/donate/cobblestone_generator/16.png", "ascent": 7, "height": 16, "chars": [ "\u1010" ] },
+        { "type": "bitmap", "file": "chat:background/donate/cobblestone_generator/17.png", "ascent": 7, "height": 17, "chars": [ "\u1011" ] },
+        { "type": "bitmap", "file": "chat:background/donate/cobblestone_generator/18.png", "ascent": 7, "height": 18, "chars": [ "\u1012" ] },
+        { "type": "bitmap", "file": "chat:background/donate/cobblestone_generator/19.png", "ascent": 7, "height": 19, "chars": [ "\u1013" ] },
+        { "type": "bitmap", "file": "chat:background/donate/cobblestone_generator/20.png", "ascent": 7, "height": 20, "chars": [ "\u1014" ] },
+
+        { "type": "bitmap", "file": "chat:background/donate/cobblestone_generator/prefix.png", "ascent": 7, "height": 8, "chars": [ "\u2000" ] },
+        { "type": "bitmap", "file": "chat:background/donate/cobblestone_generator/suffix.png", "ascent": 7, "height": 8, "chars": [ "\u2001" ] }
+  ]
+}

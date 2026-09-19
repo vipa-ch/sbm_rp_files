@@ -1,0 +1,16 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:block/jungle_sapling"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 1000 }, "model": "bonsai:block/jungle_bonsai/0" },
+        { "predicate": { "custom_model_data": 1001 }, "model": "bonsai:block/jungle_bonsai/1" },
+        { "predicate": { "custom_model_data": 1002 }, "model": "bonsai:block/jungle_bonsai/2" },
+        { "predicate": { "custom_model_data": 1003 }, "model": "bonsai:block/jungle_bonsai/3" },
+        { "predicate": { "custom_model_data": 1004 }, "model": "bonsai:block/jungle_bonsai/4" },
+        { "predicate": { "custom_model_data": 1005 }, "model": "bonsai:block/jungle_bonsai/5" },
+        { "predicate": { "custom_model_data": 1006 }, "model": "bonsai:block/jungle_bonsai/6" },
+        { "predicate": { "custom_model_data": 1007 }, "model": "bonsai:block/jungle_bonsai/7" }
+    ]
+}

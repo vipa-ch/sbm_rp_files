@@ -1,0 +1,7 @@
+{
+	"credit": "Miwo4ka",
+	"parent": "general:block/barrel/iron",
+	"textures": {
+		"0": "general:block/barrel/singularity"
+	}
+}

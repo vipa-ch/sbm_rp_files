@@ -1,0 +1,8 @@
+{
+	"credit": "Dareda",
+	"parent": "general:block/text_monitor/casing",
+	"textures": {
+		"0": "general:block/text_monitor/extender_inventory_casing",
+		"particle": "#0"
+	}
+}

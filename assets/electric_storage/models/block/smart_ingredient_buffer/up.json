@@ -1,0 +1,7 @@
+{
+	"credit": "levnemcev, Miwo4ka",
+	"parent": "electric_storage:block/smart_ingredient_buffer/side",
+	"textures": {
+		"0": "electric_storage:block/smart_ingredient_buffer/up"
+	}
+}

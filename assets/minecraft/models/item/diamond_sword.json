@@ -1,0 +1,13 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/diamond_sword"
+    },
+    "overrides": [
+		{ "predicate": { "custom_model_data": 1000 }, "model": "july1:item/2026/magic/artifact/flame_blade" },
+
+        { "predicate": { "custom_model_data": 1000100 }, "model": "customization:item/sword/sculk" },
+        { "predicate": { "custom_model_data": 1000101 }, "model": "customization:item/sword/amethyst" },
+        { "predicate": { "custom_model_data": 1000102 }, "model": "customization:item/sword/mossy" }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+	"credit": "LeonidM",
+	"parent": "general:block/text_monitor/0111",
+	"textures": {
+		"1": "general:block/text_monitor/extender_casing"
+	}
+}

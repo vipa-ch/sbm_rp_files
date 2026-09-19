@@ -1,0 +1,50 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/firework_star",
+    "layer1": "item/firework_star_overlay"
+  },
+  "overrides": [    
+	  { "predicate": { "custom_model_data": 1006 }, "model": "general:block/elevator/inventory" },
+
+	  { "predicate": { "custom_model_data": 1080 }, "model": "general:block/text_monitor/inventory" },
+	  { "predicate": { "custom_model_data": 1081 }, "model": "general:block/text_monitor/extender/inventory" },
+
+	  { "predicate": { "custom_model_data": 1100 }, "model": "general:block/text_monitor/0000" },
+	  { "predicate": { "custom_model_data": 1101 }, "model": "general:block/text_monitor/0001" },
+	  { "predicate": { "custom_model_data": 1102 }, "model": "general:block/text_monitor/0010" },
+	  { "predicate": { "custom_model_data": 1103 }, "model": "general:block/text_monitor/0011" },
+	  { "predicate": { "custom_model_data": 1104 }, "model": "general:block/text_monitor/0100" },
+	  { "predicate": { "custom_model_data": 1105 }, "model": "general:block/text_monitor/0101" },
+	  { "predicate": { "custom_model_data": 1106 }, "model": "general:block/text_monitor/0110" },
+	  { "predicate": { "custom_model_data": 1107 }, "model": "general:block/text_monitor/0111" },
+	  { "predicate": { "custom_model_data": 1108 }, "model": "general:block/text_monitor/1000" },
+	  { "predicate": { "custom_model_data": 1109 }, "model": "general:block/text_monitor/1001" },
+	  { "predicate": { "custom_model_data": 1110 }, "model": "general:block/text_monitor/1010" },
+	  { "predicate": { "custom_model_data": 1111 }, "model": "general:block/text_monitor/1011" },
+	  { "predicate": { "custom_model_data": 1112 }, "model": "general:block/text_monitor/1100" },
+	  { "predicate": { "custom_model_data": 1113 }, "model": "general:block/text_monitor/1101" },
+	  { "predicate": { "custom_model_data": 1114 }, "model": "general:block/text_monitor/1110" },
+	  { "predicate": { "custom_model_data": 1115 }, "model": "general:block/text_monitor/1111" },
+
+	  { "predicate": { "custom_model_data": 1120 }, "model": "general:block/text_monitor/extender/0000" },
+	  { "predicate": { "custom_model_data": 1121 }, "model": "general:block/text_monitor/extender/0001" },
+	  { "predicate": { "custom_model_data": 1122 }, "model": "general:block/text_monitor/extender/0010" },
+	  { "predicate": { "custom_model_data": 1123 }, "model": "general:block/text_monitor/extender/0011" },
+	  { "predicate": { "custom_model_data": 1124 }, "model": "general:block/text_monitor/extender/0100" },
+	  { "predicate": { "custom_model_data": 1125 }, "model": "general:block/text_monitor/extender/0101" },
+	  { "predicate": { "custom_model_data": 1126 }, "model": "general:block/text_monitor/extender/0110" },
+	  { "predicate": { "custom_model_data": 1127 }, "model": "general:block/text_monitor/extender/0111" },
+	  { "predicate": { "custom_model_data": 1128 }, "model": "general:block/text_monitor/extender/1000" },
+	  { "predicate": { "custom_model_data": 1129 }, "model": "general:block/text_monitor/extender/1001" },
+	  { "predicate": { "custom_model_data": 1130 }, "model": "general:block/text_monitor/extender/1010" },
+	  { "predicate": { "custom_model_data": 1131 }, "model": "general:block/text_monitor/extender/1011" },
+	  { "predicate": { "custom_model_data": 1132 }, "model": "general:block/text_monitor/extender/1100" },
+	  { "predicate": { "custom_model_data": 1133 }, "model": "general:block/text_monitor/extender/1101" },
+	  { "predicate": { "custom_model_data": 1134 }, "model": "general:block/text_monitor/extender/1110" },
+	  { "predicate": { "custom_model_data": 1135 }, "model": "general:block/text_monitor/extender/1111" },
+
+    { "predicate": { "custom_model_data": 13064 }, "model": "electric_storage:block/cable/pure/inventory" },
+    { "predicate": { "custom_model_data": 13065 }, "model": "electric_storage:block/cable/pure_rainbow/inventory" }
+  ]
+}

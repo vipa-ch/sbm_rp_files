@@ -1,0 +1,7 @@
+{
+	"credit": "Miwo4ka",
+	"parent": "electricity:block/singular_compressor/casing",
+	"textures": {
+		"overlay": "electricity:block/vacuum_freezer/hopper_out"
+	}
+}

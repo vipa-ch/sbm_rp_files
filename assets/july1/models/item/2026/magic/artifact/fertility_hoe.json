@@ -1,0 +1,7 @@
+{
+	"credit": "Claude",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "july1:item/2026/magic/artifact/fertility_hoe"
+	}
+}

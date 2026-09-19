@@ -1,0 +1,7 @@
+{
+	"credit": "Miwo4ka",
+	"parent": "electricity:block/grinding_machine/casing",
+	"textures": {
+		"0": "electricity:block/grinding_machine/advanced_casing"
+	}
+}

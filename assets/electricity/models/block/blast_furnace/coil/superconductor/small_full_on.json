@@ -1,0 +1,8 @@
+{
+	"credit": "levnemcev, LeonidM",
+	"parent": "electricity:block/blast_furnace/coil/superconductor/small_full",
+	"textures": {
+		"0": "electricity:block/blast_furnace/coil/superconductor/small_full_on",
+		"particle": "electricity:block/blast_furnace/coil/superconductor/small_full_on"
+	}
+}

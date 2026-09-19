@@ -1,0 +1,102 @@
+{
+    "2024.ak47.shoot": {
+        "subtitle": "Выстрел AK-47",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "july1:2024/ak47_shoot"
+            }
+        ]
+    },
+    "2024.csgo_weapon_case.open": {
+        "subtitle": "ААААА ЧЁ ВЫПАЛО",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "july1:2024/csgo_weapon_case_open"
+            }
+        ]
+    },
+
+    "2025.ak47.shoot": {
+        "subtitle": "Выстрел AK-47",
+        "replace": false,
+        "sounds": [
+            { "name": "july1:2025/ak47/shoot_1" },
+            { "name": "july1:2025/ak47/shoot_2" },
+            { "name": "july1:2025/ak47/shoot_3" },
+            { "name": "july1:2025/ak47/shoot_4" }
+        ]
+    },
+    "2025.glock18.shoot": {
+        "subtitle": "Выстрел Glock-18",
+        "replace": false,
+        "sounds": [
+            { "name": "july1:2025/glock18/shoot_1" },
+            { "name": "july1:2025/glock18/shoot_2" }
+        ]
+    },
+    "2025.mp7.shoot": {
+        "subtitle": "Выстрел MP7",
+        "replace": false,
+        "sounds": [
+            { "name": "july1:2025/mp7/shoot_1" },
+            { "name": "july1:2025/mp7/shoot_2" },
+            { "name": "july1:2025/mp7/shoot_3" },
+            { "name": "july1:2025/mp7/shoot_4" }
+        ]
+    },
+    "2025.m4a4.shoot": {
+        "subtitle": "Выстрел M4A4",
+        "replace": false,
+        "sounds": [
+            { "name": "july1:2025/m4a4/shoot_1" },
+            { "name": "july1:2025/m4a4/shoot_2" },
+            { "name": "july1:2025/m4a4/shoot_3" },
+            { "name": "july1:2025/m4a4/shoot_4" }
+        ]
+    },
+    "2025.csgo_weapon_case.open": {
+        "subtitle": "Открыт кейс",
+        "replace": false,
+        "sounds": [
+            { "name": "july1:2025/csgo_weapon_case/open" }
+        ]
+    },
+    "2025.csgo_weapon_case.roll": {
+        "replace": false,
+        "sounds": [
+            { "name": "july1:2025/csgo_weapon_case/roll" }
+        ]
+    },
+    "2025.csgo_weapon_case.reveal.mil_spec": {
+        "replace": false,
+        "sounds": [
+            { "name": "july1:2025/csgo_weapon_case/reveal_rare" }
+        ]
+    },
+    "2025.csgo_weapon_case.reveal.restricted": {
+        "replace": false,
+        "sounds": [
+            { "name": "july1:2025/csgo_weapon_case/reveal_rare" }
+        ]
+    },
+    "2025.csgo_weapon_case.reveal.classified": {
+        "replace": false,
+        "sounds": [
+            { "name": "july1:2025/csgo_weapon_case/reveal_mythical" }
+        ]
+    },
+    "2025.csgo_weapon_case.reveal.covert": {
+        "replace": false,
+        "sounds": [
+            { "name": "july1:2025/csgo_weapon_case/reveal_legendary" }
+        ]
+    },
+    "2025.csgo_weapon_case.reveal.rare_special_item": {
+        "replace": false,
+        "sounds": [
+            { "name": "july1:2025/csgo_weapon_case/reveal_ancient" }
+        ]
+    }
+}

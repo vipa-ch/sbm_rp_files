@@ -1,0 +1,7 @@
+{
+	"credit": "Miwo4ka",
+	"parent": "electricity:block/assembly_line/conveyor_casing",
+	"textures": {
+		"0": "electricity:block/assembly_line/conveyor_casing_on"
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Miwo4ka",
+	"parent": "mechsandtechs:block/root",
+	"textures": {
+		"0": "electricity:block/vacuum_furnace/completed",
+		"particle": "electricity:block/vacuum_furnace/completed"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [4, 4, 8, 10.66667], "texture": "#0"},
+				"east": {"uv": [0, 4, 4, 10.6667], "texture": "#0"},
+				"south": {"uv": [12, 4, 16, 10.6667], "texture": "#0"},
+				"west": {"uv": [8, 4, 12, 10.6667], "texture": "#0"},
+				"up": {"uv": [4, 0, 8, 4], "texture": "#0"},
+				"down": {"uv": [4, 10.66667, 8, 14.66667], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -14.67, 0],
+			"scale": [3.435, 3.435, 3.435]
+		}
+	}
+}

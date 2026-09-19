@@ -1,0 +1,7 @@
+{
+	"credit": "Miwo4ka",
+	"parent": "decor:block/catwalk_black",
+	"textures": {
+		"0": "decor:block/catwalk_gray"
+	}
+}

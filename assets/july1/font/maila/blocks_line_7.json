@@ -1,0 +1,23 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "july1:maila_blocks_2024.png",
+            "ascent": -20,
+            "height": 24,
+            "chars": [
+                "\u1001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "july1:maila_blocks_2026.png",
+            "ascent": -20,
+            "height": 24,
+            "chars": [
+                "\u1101\u1102",
+                "\u1103\u1104"
+            ]
+        }
+    ]
+}

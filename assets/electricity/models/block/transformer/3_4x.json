@@ -1,0 +1,8 @@
+{
+	"credit": "Dareda",
+	"parent": "electricity:block/transformer/3",
+	"texture_size": [32, 32],
+	"textures": {
+		"level": "electricity:block/transformer/level/4"
+	}
+}

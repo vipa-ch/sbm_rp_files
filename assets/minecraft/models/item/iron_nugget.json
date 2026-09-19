@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/iron_nugget"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1000 }, "model": "decor:block/railing" },
+
+    { "predicate": { "custom_model_data": 1010 }, "model": "decor:block/catwalk_black" },
+    { "predicate": { "custom_model_data": 1011 }, "model": "decor:block/catwalk_gray" },
+    { "predicate": { "custom_model_data": 1012 }, "model": "decor:block/catwalk_white" }
+  ]
+}

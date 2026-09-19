@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "general:item/resource/netherite/raw_alloy",
+		"layer1": "general:item/resource/hot_ingot_overlay"
+	}
+}

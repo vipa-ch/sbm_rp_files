@@ -1,0 +1,18 @@
+{
+  "providers": [
+    { "type": "bitmap", "file": "july1:gui/2024/yandex_courier_station.png", "ascent": 19, "height": 256, "chars": [ "\u0001" ] },
+    { "type": "bitmap", "file": "july1:gui/2024/meat_grinder.png", "ascent": 19, "height": 256, "chars": [ "\u0002" ] },
+
+
+    { "type": "bitmap", "file": "july1:gui/2025/csgo_case.png", "ascent": 19, "height": 256, "chars": [ "\u0100" ] },
+    { "type": "bitmap", "file": "july1:gui/2025/csgo_case_opening.png", "ascent": 19, "height": 256, "chars": [ "\u0101" ] },
+    { "type": "bitmap", "file": "july1:gui/2025/csgo_case_opened.png", "ascent": 19, "height": 256, "chars": [ "\u0102" ] },
+    { "type": "bitmap", "file": "july1:gui/2025/csgo_trade_contract.png", "ascent": 19, "height": 256, "chars": [ "\u0103" ] },
+    { "type": "bitmap", "file": "july1:gui/2025/csgo_trade_contract_done.png", "ascent": 19, "height": 256, "chars": [ "\u0104" ] },
+    { "type": "space", "advances": { "\u010A": -8, "\u010B": -169, "\u010C": -162 } },
+
+    { "type": "bitmap", "file": "july1:gui/2025/csgo_case_background.png", "ascent": -5, "height": 16, "chars": [ "\u0110\u0111\u0112\u0113\u0114" ] },
+    { "type": "bitmap", "file": "july1:gui/2025/csgo_case_background.png", "ascent": -41, "height": 16, "chars": [ "\u0120\u0121\u0122\u0123\u0124" ] },
+    { "type": "bitmap", "file": "july1:gui/2025/csgo_case_background.png", "ascent": -59, "height": 16, "chars": [ "\u0130\u0131\u0132\u0133\u0134" ] }
+  ]
+}

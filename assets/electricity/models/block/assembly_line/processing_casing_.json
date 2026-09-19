@@ -1,0 +1,7 @@
+{
+	"credit": "Miwo4ka",
+	"parent": "electricity:block/assembly_line/processing_casing_completed",
+	"textures": {
+		"1": "electricity:block/assembly_line/advanced_robot_arm_animated"
+	}
+}

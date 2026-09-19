@@ -1,0 +1,7 @@
+{
+	"credit": "LeonidM",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "electric_storage:item/item_storage_cell_256k"
+	}
+}

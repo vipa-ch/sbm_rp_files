@@ -1,0 +1,7 @@
+{
+	"credit": "levnemcev",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "customization:item/armor/quantum/july1_2026_advanced_chestplate"
+	}
+}

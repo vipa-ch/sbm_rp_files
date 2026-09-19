@@ -1,0 +1,7 @@
+{
+	"credit": "Miwo4ka",
+	"parent": "electricity:block/industrial_arboretum/casing",
+	"textures": {
+		"overlay": "electricity:block/vacuum_freezer/power_unit_4"
+	}
+}

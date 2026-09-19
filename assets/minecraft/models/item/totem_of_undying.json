@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/totem_of_undying"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1000 }, "model": "july1:item/2026/magic/artifact/eternal_totem" }
+  ]
+}

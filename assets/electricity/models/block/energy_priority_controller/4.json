@@ -1,0 +1,8 @@
+{
+	"credit": "Dareda, LeonidM",
+    "parent": "electricity:block/energy_priority_controller/1",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "electricity:block/energy_priority_controller/4"
+	}
+}

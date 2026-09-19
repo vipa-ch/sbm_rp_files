@@ -1,0 +1,6 @@
+{
+	"parent": "july1:block/2026/nether_reactor_core",
+	"textures": {
+		"0": "july1:block/2026/nether_reactor_core_actived"
+	}
+}

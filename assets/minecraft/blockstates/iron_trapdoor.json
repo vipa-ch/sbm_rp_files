@@ -1,0 +1,30 @@
+{
+  "variants": {
+	  "facing=south,half=bottom,open=true,powered=false,waterlogged=false": {
+      "model": "decor:block/railing",
+      "y": 0
+    },
+	  "facing=west,half=bottom,open=true,powered=false,waterlogged=false": {
+      "model": "decor:block/railing",
+      "y": 90
+    },
+	  "facing=north,half=bottom,open=true,powered=false,waterlogged=false": {
+      "model": "decor:block/railing",
+      "y": 180
+    },
+	  "facing=east,half=bottom,open=true,powered=false,waterlogged=false": {
+      "model": "decor:block/railing",
+      "y": 270
+    },
+
+	  "facing=north,half=top,open=false,powered=true": {
+      "model": "decor:block/catwalk_black"
+    },
+    "facing=east,half=top,open=false,powered=true": {
+      "model": "decor:block/catwalk_gray"
+    },
+    "facing=south,half=top,open=false,powered=true": {
+      "model": "decor:block/catwalk_white"
+    }
+  }
+}
